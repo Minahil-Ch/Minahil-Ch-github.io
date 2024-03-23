@@ -159,7 +159,7 @@ p{
   
   .title::after{
       content: '';
-      background: #210583;
+      background: #000000;
       width: 80px;
       height: 5px;
       border-radius: 5px;
@@ -240,10 +240,10 @@ p{
       font-size: 0.8em;
     }
     .btn-secondary{
-        background-color: #5b32ff;
+        background-color: #000000;
         font-size: smaller;
-        width: 40px;
-        height: 30px;
+        width: 100px;
+        height: 35px;
     }
     .fadeIn-bottom{
         top: 80%;
@@ -261,3 +261,58 @@ p{
         left: 80%;
       }
     
+
+
+    .Phonedetail{
+        background-size: cover;
+        color: rgb(0, 0, 0);
+        background-color: #ffffff;
+    }
+    
+    h1{
+        margin-top: 20px;
+        font-size: 60px;
+        margin-bottom: 20px;
+        padding-top: 60px;
+        color: #000000;
+        font-size: 40px;
+    }
+    
+    p{
+        font-size: 20px;
+        margin-top: 40px;
+        margin-bottom: 10px;
+    }
+    
+    .VivoY100{
+        margin-top: 500px;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        float: left;
+    }
+
+    .mobile-img1{
+        flex-basis: 50%;
+        min-width: 300px;
+        display: block;
+        margin-left:0px;
+       max-width: 100%;
+       padding: 50px 0;
+       height: 470px;
+       float: left;
+    }
+    
+    .mobile-img2{
+        width: 300px;
+        height: 400px;
+        flex-basis: 50%;
+        min-width: 300px;
+        display: block;
+        margin-left:0px;
+       max-width: 100%;
+       padding: 50px 0;
+       height: 470px;
+       float: left;
+    }
