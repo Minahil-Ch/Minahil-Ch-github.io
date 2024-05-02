@@ -61,3 +61,54 @@ h1{
     border-radius: 20px;
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
+.description4{
+    background-color: rgb(173, 186, 186);
+    top: 40px;
+    left: 550px;
+    width: 600px;
+    height: 420px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description5{
+    background-color: rgba(0, 0, 0, 0.663);
+    color: rgb(255, 255, 255);
+    top: 700px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description6{
+    background-color: rgb(21, 12, 12);
+    color: rgb(255, 255, 255);
+    top: 1360px;
+    left: 550px;
+    width: 630px;
+    height: 450px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
+}
+.description7{
+    background-color: rgb(101, 92, 92);
+    color: rgb(255, 255, 255);
+    top: 2030px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
