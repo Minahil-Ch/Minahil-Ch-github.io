@@ -10,12 +10,63 @@
 h1{
     margin-left: 20px;
 }
+.descriptionlap1{
+    background-color: rgb(173, 186, 186);
+    top: 40px;
+    left: 550px;
+    width: 630px;
+    height: 450px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.descriptionlap2{
+    background-color: rgba(0, 0, 0, 0.663);
+    color: rgb(255, 255, 255);
+    top: 700px;
+    left: 550px;
+    width: 630px;
+    height: 510px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.descriptionlap3{
+    background-color: rgb(21, 12, 12);
+    color: rgb(255, 255, 255);
+    top: 1370px;
+    left: 550px;
+    width: 630px;
+    height: 500px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
+}
+.descriptionlap4{
+    background-color: rgb(101, 92, 92);
+    color: rgb(255, 255, 255);
+    top: 2030px;
+    left: 550px;
+    width: 630px;
+    height: 520px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
 .description{
     background-color: rgb(173, 186, 186);
     top: 40px;
     left: 550px;
-    width: 600px;
-    height: 420px;
+    width: 630px;
+    height: 500px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -25,7 +76,7 @@ h1{
 .description1{
     background-color: rgba(0, 0, 0, 0.663);
     color: rgb(255, 255, 255);
-    top: 700px;
+    top: 800px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -38,7 +89,7 @@ h1{
 .description2{
     background-color: rgb(21, 12, 12);
     color: rgb(255, 255, 255);
-    top: 1360px;
+    top: 1450px;
     left: 550px;
     width: 630px;
     height: 450px;
@@ -51,7 +102,7 @@ h1{
 .description3{
     background-color: rgb(101, 92, 92);
     color: rgb(255, 255, 255);
-    top: 2030px;
+    top: 2150px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -63,10 +114,11 @@ h1{
 }
 .description4{
     background-color: rgb(173, 186, 186);
-    top: 40px;
+    color:black;
+    top: 2800px;
     left: 550px;
-    width: 600px;
-    height: 420px;
+    width: 630px;
+    height: 440px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -76,7 +128,7 @@ h1{
 .description5{
     background-color: rgba(0, 0, 0, 0.663);
     color: rgb(255, 255, 255);
-    top: 700px;
+    top: 3550px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -87,9 +139,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description6{
-    background-color: rgb(21, 12, 12);
-    color: rgb(255, 255, 255);
-    top: 1360px;
+    background-color: rgb(254, 104, 104);
+    color: rgb(0, 0, 0);
+    top: 5300px;
     left: 550px;
     width: 630px;
     height: 450px;
@@ -101,8 +153,8 @@ h1{
 }
 .description7{
     background-color: rgb(101, 92, 92);
-    color: rgb(255, 255, 255);
-    top: 2030px;
+    color: rgb(0, 0, 0);
+    top: 6300px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -111,4 +163,186 @@ h1{
     padding: 20px;
     border-radius: 20px;
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description8{
+    background-color: rgba(0, 0, 0, 0.663);
+    color: rgb(7, 7, 7);
+    top: 7300px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description9{
+    background-color: rgb(254, 104, 104);
+    color: rgb(0, 0, 0);
+    top: 8300px;
+    left: 550px;
+    width: 630px;
+    height: 450px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
+}
+.description10{
+    background-color: rgb(101, 92, 92);
+    color: rgb(0, 0, 0);
+    top: 9300px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description11{
+    background-color: rgba(0, 0, 0, 0.663);
+    color: rgb(7, 7, 7);
+    top: 10300px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description12{
+    background-color: rgb(254, 104, 104);
+    color: rgb(0, 0, 0);
+    top: 11300px;
+    left: 550px;
+    width: 630px;
+    height: 450px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
+}
+.description13{
+    background-color: rgb(101, 92, 92);
+    color: rgb(0, 0, 0);
+    top: 12300px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description14{
+    background-color: rgba(0, 0, 0, 0.663);
+    color: rgb(7, 7, 7);
+    top: 13300px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description15{
+    background-color: rgb(254, 104, 104);
+    color: rgb(0, 0, 0);
+    top: 14300px;
+    left: 550px;
+    width: 630px;
+    height: 450px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
+}
+.description16{
+    background-color: rgb(101, 92, 92);
+    color: rgb(0, 0, 0);
+    top: 15300px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description17{
+    background-color: rgba(0, 0, 0, 0.663);
+    color: rgb(7, 7, 7);
+    top: 16300px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description18{
+    background-color: rgb(254, 104, 104);
+    color: rgb(0, 0, 0);
+    top: 17300px;
+    left: 550px;
+    width: 630px;
+    height: 450px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
+}
+.description19{
+    background-color: rgb(101, 92, 92);
+    color: rgb(0, 0, 0);
+    top: 18300px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description20{
+    background-color: rgba(0, 0, 0, 0.663);
+    color: rgb(7, 7, 7);
+    top: 19100px;
+    left: 550px;
+    width: 630px;
+    height: 480px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
+}
+.description21{
+    background-color: rgb(254, 104, 104);
+    color: rgb(0, 0, 0);
+    top: 20000px;
+    left: 550px;
+    width: 630px;
+    height: 450px;
+    position: absolute;
+    text-align: justify;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
 }
