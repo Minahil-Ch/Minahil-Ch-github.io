@@ -38,7 +38,7 @@ h1{
 .descriptionlap3{
     background-color: rgb(21, 12, 12);
     color: rgb(255, 255, 255);
-    top: 1370px;
+    top: 1390px;
     left: 550px;
     width: 630px;
     height: 500px;
@@ -51,7 +51,7 @@ h1{
 .descriptionlap4{
     background-color: rgb(101, 92, 92);
     color: rgb(255, 255, 255);
-    top: 2030px;
+    top: 2070px;
     left: 550px;
     width: 630px;
     height: 520px;
@@ -62,7 +62,8 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description{
-    background-color: rgb(173, 186, 186);
+    background-color: rgba(0, 0, 0, 0.871);
+    color: white;
     top: 40px;
     left: 550px;
     width: 630px;
@@ -74,7 +75,7 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description1{
-    background-color: rgba(0, 0, 0, 0.663);
+    background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     top: 800px;
     left: 550px;
@@ -87,7 +88,7 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description2{
-    background-color: rgb(21, 12, 12);
+    background-color: rgb(74, 71, 71);
     color: rgb(255, 255, 255);
     top: 1450px;
     left: 550px;
@@ -100,9 +101,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
 }
 .description3{
-    background-color: rgb(101, 92, 92);
+    background-color: rgb(35, 84, 171);
     color: rgb(255, 255, 255);
-    top: 2150px;
+    top: 2120px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -113,9 +114,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description4{
-    background-color: rgb(173, 186, 186);
+    background-color: rgb(172, 172, 172);
     color:black;
-    top: 2800px;
+    top: 2850px;
     left: 550px;
     width: 630px;
     height: 440px;
@@ -126,9 +127,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description5{
-    background-color: rgba(0, 0, 0, 0.663);
+    background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-    top: 3550px;
+    top: 3510px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -139,9 +140,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description6{
-    background-color: rgb(254, 104, 104);
-    color: rgb(0, 0, 0);
-    top: 5300px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    top: 4200px;
     left: 550px;
     width: 630px;
     height: 450px;
@@ -152,9 +153,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
 }
 .description7{
-    background-color: rgb(101, 92, 92);
-    color: rgb(0, 0, 0);
-    top: 6300px;
+    background-color: rgb(123, 84, 84);
+    color: rgb(255, 255, 255);
+    top: 4900px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -165,9 +166,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description8{
-    background-color: rgba(0, 0, 0, 0.663);
+    background-color: rgba(145, 145, 145, 0.723);
     color: rgb(7, 7, 7);
-    top: 7300px;
+    top: 5600px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -178,9 +179,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description9{
-    background-color: rgb(254, 104, 104);
+    background-color: rgba(186, 181, 181, 0.922);
     color: rgb(0, 0, 0);
-    top: 8300px;
+    top: 6330px;
     left: 550px;
     width: 630px;
     height: 450px;
@@ -191,12 +192,12 @@ h1{
     box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
 }
 .description10{
-    background-color: rgb(101, 92, 92);
+    background-color: rgb(211, 56, 56);
     color: rgb(0, 0, 0);
-    top: 9300px;
+    top: 6960px;
     left: 550px;
     width: 630px;
-    height: 480px;
+    height: 460px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -204,9 +205,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description11{
-    background-color: rgba(0, 0, 0, 0.663);
+    background-color: rgba(92, 131, 230, 0.935);
     color: rgb(7, 7, 7);
-    top: 10300px;
+    top: 7720px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -217,12 +218,12 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description12{
-    background-color: rgb(254, 104, 104);
+    background-color: rgb(224, 130, 213);
     color: rgb(0, 0, 0);
-    top: 11300px;
+    top: 8540px;
     left: 550px;
     width: 630px;
-    height: 450px;
+    height: 440px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -230,12 +231,12 @@ h1{
     box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
 }
 .description13{
-    background-color: rgb(101, 92, 92);
-    color: rgb(0, 0, 0);
-    top: 12300px;
+    background-color: rgba(0, 0, 0, 0.862);
+    color: rgb(254, 254, 254);
+    top: 9200px;
     left: 550px;
     width: 630px;
-    height: 480px;
+    height: 450px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -243,9 +244,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description14{
-    background-color: rgba(0, 0, 0, 0.663);
-    color: rgb(7, 7, 7);
-    top: 13300px;
+    background-color: rgba(0, 0, 0, 0.985);
+    color: rgb(255, 255, 255);
+    top: 9800px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -256,12 +257,12 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description15{
-    background-color: rgb(254, 104, 104);
+    background-color: rgb(151, 190, 193);
     color: rgb(0, 0, 0);
-    top: 14300px;
+    top: 10500px;
     left: 550px;
     width: 630px;
-    height: 450px;
+    height: 470px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -269,12 +270,12 @@ h1{
     box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
 }
 .description16{
-    background-color: rgb(101, 92, 92);
+    background-color: rgba(78, 120, 211, 0.96);
     color: rgb(0, 0, 0);
-    top: 15300px;
+    top: 11190px;
     left: 550px;
     width: 630px;
-    height: 480px;
+    height: 450px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -282,9 +283,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description17{
-    background-color: rgba(0, 0, 0, 0.663);
-    color: rgb(7, 7, 7);
-    top: 16300px;
+    background-color: rgba(10, 39, 153, 0.67);
+    color: rgb(255, 255, 255);
+    top: 11920px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -297,10 +298,10 @@ h1{
 .description18{
     background-color: rgb(254, 104, 104);
     color: rgb(0, 0, 0);
-    top: 17300px;
+    top: 12600px;
     left: 550px;
     width: 630px;
-    height: 450px;
+    height: 460px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -308,12 +309,12 @@ h1{
     box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
 }
 .description19{
-    background-color: rgb(101, 92, 92);
-    color: rgb(0, 0, 0);
-    top: 18300px;
+    background-color: rgba(66, 65, 65, 0.677);
+    color: rgb(255, 255, 255);
+    top: 13250px;
     left: 550px;
     width: 630px;
-    height: 480px;
+    height: 490px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -321,9 +322,9 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description20{
-    background-color: rgba(0, 0, 0, 0.663);
+    background-color: rgba(63, 63, 63, 0.663);
     color: rgb(7, 7, 7);
-    top: 19100px;
+    top: 13950px;
     left: 550px;
     width: 630px;
     height: 480px;
@@ -334,12 +335,12 @@ h1{
     box-shadow: 10px 10px 10px 7px rgb(117, 112, 112);
 }
 .description21{
-    background-color: rgb(254, 104, 104);
-    color: rgb(0, 0, 0);
-    top: 20000px;
+    background-color: rgba(82, 75, 75, 0.816);
+    color: rgb(255, 255, 255);
+    top: 14650px;
     left: 550px;
     width: 630px;
-    height: 450px;
+    height: 490px;
     position: absolute;
     text-align: justify;
     padding: 20px;
