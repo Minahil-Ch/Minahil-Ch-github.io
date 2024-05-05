@@ -41,7 +41,7 @@ h1{
     top: 1390px;
     left: 550px;
     width: 630px;
-    height: 500px;
+    height: 510px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -49,12 +49,12 @@ h1{
     box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
 }
 .descriptionlap4{
-    background-color: rgb(101, 92, 92);
+    background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
     top: 2070px;
     left: 550px;
     width: 630px;
-    height: 520px;
+    height: 530px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -64,10 +64,10 @@ h1{
 .description{
     background-color: rgba(0, 0, 0, 0.871);
     color: white;
-    top: 40px;
+    top: 20px;
     left: 550px;
     width: 630px;
-    height: 500px;
+    height: 520px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -288,7 +288,7 @@ h1{
     top: 11920px;
     left: 550px;
     width: 630px;
-    height: 480px;
+    height: 490px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -314,7 +314,7 @@ h1{
     top: 13250px;
     left: 550px;
     width: 630px;
-    height: 490px;
+    height: 460px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -323,11 +323,11 @@ h1{
 }
 .description20{
     background-color: rgba(63, 63, 63, 0.663);
-    color: rgb(7, 7, 7);
+    color: rgb(255, 255, 255);
     top: 13950px;
     left: 550px;
     width: 630px;
-    height: 480px;
+    height: 440px;
     position: absolute;
     text-align: justify;
     padding: 20px;
@@ -340,10 +340,46 @@ h1{
     top: 14650px;
     left: 550px;
     width: 630px;
-    height: 490px;
+    height: 470px;
     position: absolute;
     text-align: justify;
     padding: 20px;
     border-radius: 20px;
     box-shadow: 10px 10px 10px 7px rgba(0, 0, 0, 0.367);
 }
+.btn-main{
+    display: inline-block;
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 8px 30px;
+    margin-left: 450px;
+    border-radius: 30px;
+    transition: background 0.5s;
+    text-decoration-line: none;
+    }
+ 
+    .btn-main:hover{
+        background-color: #a6a6a6;
+    
+    }
+    #orderContainer{
+    font-family: 'Lato', sans-serif;
+    width: 80%;
+    padding-top: 250px;
+    padding-bottom: 150px;
+    margin: auto;
+    text-align: center;
+    }
+    .fa-check-circle{
+    color: rgb(5, 187, 5);
+    padding-bottom: 30px;
+    font-size: 10em;
+    }
+    #aboutCheck p{
+    font-weight: 100;
+    letter-spacing: 1px;
+    }
+    #aboutCheck h1{
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    }
